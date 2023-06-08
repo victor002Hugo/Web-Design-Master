@@ -3,11 +3,13 @@
     padding: 0;
 }
 
+html,body{
+    height: 100%;
+}
+
 .artigo{
-    width: 1280px;
+    width: 100%;
     background-color: rgb(200, 200, 200);
-    padding: 40px;
-    margin: 40px auto;
     text-align: center;
 }
 

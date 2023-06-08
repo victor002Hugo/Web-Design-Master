@@ -1,0 +1,11 @@
+.um{
+    align-self: auto;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
